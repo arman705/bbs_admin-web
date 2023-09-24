@@ -1,0 +1,10 @@
+.view-table {
+	width: 100%;
+	text-align: center;
+}
+
+.view-table th, .view-table td {
+	color: rgba(80, 80, 80, 1);
+	font-size: 14px;
+	padding: 10px 0px;
+}

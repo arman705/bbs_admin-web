@@ -1,0 +1,3 @@
+.chart-full canvas, .chart-full > div:first-child {
+  width: 100% !important;
+}
